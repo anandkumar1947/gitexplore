@@ -1,1 +1,2 @@
-inside b file
+user login
+user
