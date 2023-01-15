@@ -1,7 +1,5 @@
-Adding
+Add
 Firs
 second
 third
 from hello
-
-seventh
