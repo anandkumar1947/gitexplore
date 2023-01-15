@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 Add
+=======
+Addings
+>>>>>>> hello
 Firs
 second
 third
+s
 from hello
