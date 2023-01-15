@@ -1,7 +1,8 @@
-Adding
+Addings
 Firs
 second
 third
+s
 from hello
 
 seventh
